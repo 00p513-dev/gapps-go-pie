@@ -31,8 +31,7 @@ PRODUCT_PACKAGES += \
 	Phonesky \
 	SearchSpeechServices \
 	SetupWizard \
-	WebViewGoogle \
-	YouTubeGo
+	WebViewGoogle
 
 USE_PHH_GAPPS_GO := true
 
